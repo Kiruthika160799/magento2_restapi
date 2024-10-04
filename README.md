@@ -15,11 +15,11 @@
 
 # Response : 
   {
-      "id": 1,
-      "sku": "24-MB01",
-      "name": "Joust Duffle Bag",
-      "description": "<p>The sporty Joust Duffle Bag can't be beat - not in the gym, not on the luggage carousel, not anywhere. Big enough to haul a basketball or soccer ball and some sneakers with plenty of room to spare, it's ideal for athletes with places to go.<p>\n<ul>\n<li>Dual top handles.</li>\n<li>Adjustable shoulder strap.</li>\n<li>Full-length zipper.</li>\n<li>L 29\" x W 13\" x H 11\".</li>\n</ul>"
-  }
+    "id": 1,
+    "sku": "sample-product",
+    "name": "sample product",
+    "description": "Test description"
+}
 
 # Screenhot
 
