@@ -1,5 +1,4 @@
-# magento2_restapi
-Magento 2 Rest API
+# Magento 2 Rest API
 
 # Get product by id 
 
